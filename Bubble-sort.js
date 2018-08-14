@@ -1,9 +1,4 @@
-/*
-*   
-*
-*
-* 
-*/
+
 
 // swap item has index i with item has index j
 function swap(array, firstItem, secandItem) {
